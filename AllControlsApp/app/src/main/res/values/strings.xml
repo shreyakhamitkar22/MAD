@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AllControlsApp</string>
+
+    <string-array name="languages">
+        <item>JAVA</item>
+        <item>HTML</item>
+        <item>PHP</item>
+    </string-array>
+</resources>
